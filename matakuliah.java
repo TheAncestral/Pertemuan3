@@ -4,4 +4,5 @@ class matakuliah {
   System.out.println("2. Teknologi Cloud");
   System.out.println("3. Matematika");
   System.out.println("4. Jaringan Komputer");
+  System.out.println("5. Sistem Basis Data");
 }
